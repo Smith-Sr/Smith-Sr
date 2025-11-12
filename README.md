@@ -8,20 +8,13 @@
 
 
 
-
-  <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=52F7EF;FF6B6B;FFD93D&center=true&vCenter=true&width=700&lines=Welcome,+I’m+Mr_Smith;A+Student+and+an+Innovation+Enthusiast;AI+Explorer" 
-       alt="Typing SVG" />
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=6FF7FF&center=true&vCenter=true&width=600&lines=🌌+Welcome+to+Mr.Smith's+Universe;🚀+Let's+explore!" alt="Typing Animation" style="transform: rotateY(10deg); box-shadow: 0px 0px 25px #0ff; border-radius: 20px;">
+</div>
 
 
 
 
-  <!-- ✨ Descripción breve -->
-  <p style="font-size: 1.2rem; color: #aaa; max-width: 700px;">
-    💻 Apasionado por la tecnología, el desarrollo de software y los proyectos creativos.<br>
-    🚀 Actualmente explorando GitHub Actions y proyectos como geoinformatica.
-  </p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -30,6 +23,12 @@
 
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
+
+
+
+
+
 
 
 
@@ -68,6 +67,11 @@ Sunday                   2122 commits        ████░░░░░░░�
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg" alt="Profile 3D demo"/>
+</div>
+
 
 
 ![Metrics](https://raw.githubusercontent.com/Smith-Sr/metrics/main/github-metrics.svg)
