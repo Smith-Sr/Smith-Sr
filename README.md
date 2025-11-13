@@ -7,11 +7,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&lines=🌌+Welcome+to+Mr.+Smith's+Universe" alt="Title">
 </h1>
 
+
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=200&lines=🌌+CLICK+TO+ENTER;🚀+SMITH'S+UNIVERSE;💻+LOADING..." alt="Animated Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🎵+SMITH'S+UNIVERSE+SOUNDTRACK+🎵" alt="Title"/>
+  <br><br>
+  
+  <a href="https://www.youtube.com/watch?v=jNCMvCGivgk&list=RDjNCMvCGivgk&start_radio=1">
+    <img src="https://cdn.pixabay.com/animation/2024/02/26/16/31/16-31-14-322_512.gif" alt="Music Equalizer" width="600"/>
   </a>
+  
+  <p><b>🎧 Listen with me 🎧</b></p>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
