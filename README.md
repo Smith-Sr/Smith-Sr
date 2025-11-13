@@ -258,7 +258,9 @@ Sunday      ████░░░░░░░░░░░░░░░░   14.58
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Smith-Sr/Smith-Sr/output/github-contribution-grid-snake-dark.svg)
+  <a href="https://raw.githubusercontent.com/Smith-Sr/Smith-Sr/main/profile-3d-contrib/profile-night-rainbow.svg" target="_blank">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  </a>
 
 </div>
 
