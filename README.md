@@ -3,9 +3,15 @@
 <!-- 🐱 GIF del gato -->
 <img alt="kitty" height="300px" width="300px" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-# 🌌 Welcome to Mr. Smith's Universe
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&lines=🌌+Welcome+to+Mr.+Smith's+Universe" alt="Title">
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👨‍💻+Software+Engineer+%7C+AI+Enthusiast;🚀+Turning+Ideas+into+Reality;💡+Machine+Learning+%7C+Full+Stack" alt="Typing Animation">
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&height=200&lines=🌌+CLICK+TO+ENTER;🚀+SMITH'S+UNIVERSE;💻+LOADING..." alt="Animated Header"/>
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -19,11 +25,12 @@
 
 </div>
 
----
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🎯 About Me
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
 
 ```python
 class Smith:
@@ -55,7 +62,7 @@ class Smith:
 me = Smith()
 me.say_hi()
 ```
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br clear="right"/>
 
 ---
