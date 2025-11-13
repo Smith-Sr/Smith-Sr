@@ -4,7 +4,7 @@
 <img alt="kitty" height="300px" width="300px" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&lines=🌌+Welcome+to+Mr.+Smith's+Universe" alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=🌌+Welcome+to+Mr.+Smith's+Universe" alt="Title">
 </h1>
 
 
