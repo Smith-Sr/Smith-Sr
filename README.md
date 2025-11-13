@@ -298,7 +298,7 @@ Instituto de Educación Superior Tecnológica SENATI
 <td align="center" width="50%">
 
 **🔧 Mantenimiento**  
-Servicios industriales JM - Palmas del Espino SAC  
+-----------------------------------------
 📅 Santa Lucía, Perú  
 *General maintenance operations*
 
@@ -306,7 +306,7 @@ Servicios industriales JM - Palmas del Espino SAC
 <td align="center" width="50%">
 
 **👨‍💼 Administrador**  
-Gras sintético la zurda de oro - hospedaje Cajacho  
+-----------------------------------------
 📅 Santa Lucía, Perú  
 *Staff management & operations*
 
