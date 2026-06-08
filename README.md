@@ -121,65 +121,6 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Color Clustering System
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-**Advanced image analysis using K-Means clustering and PCA**
-
-🔹 Extract dominant color palettes  
-🔹 Interactive visualizations with Plotly  
-🔹 Real-time processing with Streamlit  
-🔹 PCA dimensionality reduction  
-
-**Tech Stack:** `Python` `scikit-learn` `Streamlit` `Plotly` `NumPy`
-
-[![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Smith-Sr)
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 Customer Segmentation AI
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-<img src="https://img.shields.io/badge/ML-Powered-orange?style=flat-square&logo=tensorflow" />
-
-**AI-powered customer analysis platform**
-
-🔹 Machine learning segmentation  
-🔹 Interactive dashboards with Gradio  
-🔹 Real-time predictions  
-🔹 Business intelligence insights  
-
-**Tech Stack:** `Python` `Gradio` `Pandas` `Matplotlib` `K-Means`
-
-[![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Smith-Sr)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 More Projects Coming Soon...
-<img src="https://img.shields.io/badge/Status-Planning-yellow?style=flat-square" />
-
-🔹 Deep Learning Image Classifier  
-🔹 Natural Language Processing App  
-🔹 Real-time Data Dashboard  
-
-Stay tuned! 🚀
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Open Source Contributions
-<img src="https://img.shields.io/badge/Status-Contributing-blue?style=flat-square" />
-
-🔹 Active in ML/AI communities  
-🔹 Code reviews & bug fixes  
-🔹 Documentation improvements  
-
-Check my contributions! 👇
 
 </td>
 </tr>
